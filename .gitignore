@@ -1,0 +1,40 @@
+# C/C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Build directories
+bin/
+build/
+dist/
+target/
+Debug/
+Release/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Dependency directories
+node_modules/
+vendor/
+output/
